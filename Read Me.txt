@@ -1,0 +1,9 @@
+Welcome at Advance Python Screen Logger  -by Sayan
+
+1. Follow the video (  )
+
+2. Place your file at shell:startup folder with your mail details in it.
+
+3. That's It.
+
+For feedback & help contact at: ironnheart007@gmail.com
